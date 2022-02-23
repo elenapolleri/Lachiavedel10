@@ -1,0 +1,266 @@
+<!doctype html>
+<html lang="it">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+    <link href="my-style.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.7.2/font/bootstrap-icons.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+
+    <title>La chiave del 10 | Servizio Catering</title>
+    <link rel="shortcut icon" href="FOTO/favicon.ico" />
+  </head>
+  <body>
+    <!--INIZIO container-->
+    <div class="container-fluid">
+      <!--INIZIO navbar-->
+      <nav class="navbar navbar-expand-md my-navbar fixed-top">
+              <div class="container-fluid">
+                <a class="navbar-brand" href="index.html">
+                  <img src="FOTO/LOGO2.png" alt="Logo pittogramma del ristorante La chiave del 10" width="160" height="90">
+                </a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasNavbar" aria-controls="offcanvasNavbar">
+                  <i class="bi bi-list my-list"></i>
+                </button>
+                <div class="offcanvas offcanvas-end my-offcanvas" tabindex="-1" id="offcanvasNavbar" aria-labelledby="offcanvasNavbarLabel">
+                  <div class="offcanvas-header">
+                    <h5 class="offcanvas-title" id="offcanvasNavbarLabel"></h5>
+                    <button type="button" class="btn-close text-reset" data-bs-dismiss="offcanvas" aria-label="Close"></button>
+                  </div>
+                  <div class="offcanvas-body">
+                    <ul class="navbar-nav flex-grow-1 pe-3">
+                      <li class="nav-item">
+                        <a class="nav-link vocimenu" aria-current="page" href="index.html#scrollspyHeading1">Home</a>
+                      </li>
+                      <li class="nav-item">
+                        <a class="nav-link vocimenu" href="index.html#scrollspyHeading2">Storia</a>
+                      </li>
+                      <li class="nav-item">
+                        <a class="nav-link vocimenu" href="index.html#scrollspyHeading3">Menu</a>
+                      </li>
+                      <li class="nav-item">
+                        <a class="nav-link vocimenu" href="index.html#scrollspyHeading4">Eventi</a>
+                      </li>
+                      <li class="nav-item">
+                        <a class="nav-link vocimenu" href="index.html#scrollspyHeading5">Servizi</a>
+                      </li>
+                      <li class="nav-item">
+                        <a class="nav-link vocimenu" href="index.html#scrollspyHeading6">Contatti</a>
+                      </li>
+                      <li>
+                        <button type="button" class="myButton right" data-bs-toggle="modal" data-bs-target="#myModal">Prenota</button>
+                      </li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+            </nav>
+      <!--FINE navbar-->
+      <!--INIZIO prenota-->
+    <div class="modal fade" id="myModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered">
+      <div class="modal-content testomodal">
+        <div class="modal-header">
+          <h5 class="modal-title" id="exampleModalLabel">Prenota</h5>
+          <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+        </div>
+        <div class="modal-body">
+          <div class="row">
+          <div class="col-md-6">
+          <div class="input-group mb-3">
+            <span class="input-group-text" id="inputGroup-sizing-default">Persone</span>
+            <input type="number" class="form-control" aria-label="Sizing example input" aria-describedby="inputGroup-sizing-default">
+          </div>
+          <div class="input-group mb-3">
+            <span class="input-group-text" id="inputGroup-sizing-default">Data</span>
+            <input type="date" class="form-control" aria-label="Sizing example input" aria-describedby="inputGroup-sizing-default">
+          </div>
+          <div class="input-group mb-3">
+            <span class="input-group-text" id="inputGroup-sizing-default">Orario</span>
+            <input type="time" class="form-control" aria-label="Sizing example input" aria-describedby="inputGroup-sizing-default">
+          </div>
+          </div>
+          <div class="col-md-6">
+          <div class="input-group mb-3">
+            <span class="input-group-text" id="inputGroup-sizing-default">Nome</span>
+            <input type="text" class="form-control" aria-label="Sizing example input" aria-describedby="inputGroup-sizing-default">
+          </div>
+          <div class="input-group mb-3">
+            <span class="input-group-text" id="inputGroup-sizing-default">Email</span>
+            <input type="email" class="form-control" aria-label="Sizing example input" aria-describedby="inputGroup-sizing-default">
+          </div>
+          <div class="input-group mb-3">
+            <span class="input-group-text" id="inputGroup-sizing-default">Telefono</span>
+            <input type="tel" class="form-control" aria-label="Sizing example input" aria-describedby="inputGroup-sizing-default">
+          </div>
+          </div>
+        </div>
+          <div class="row">
+            <div class="col-md-2"></div>
+              <div class="col-md-8">
+                <div class="form-check">
+                  <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault">
+                  <label class="form-check-label myLabel" for="flexCheckDefault">
+                    Autorizzo al trattamento dei dati personali
+                  </label>
+                </div>
+              </div>
+              <div class="col-md-2"></div>
+            </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Annulla</button>
+          <button type="button" class="btn btn-primary myButton">Prenota</button>
+        </div>
+    </div>
+  </div>
+</div>
+</div>
+<!--FINE prenota-->
+      <!--INIZIO home (parallasse)-->
+      <div data-bs-spy="scroll" data-bs-target="#navbar-example2" data-bs-offset="0" class="scrollspy-example" tabindex="0">
+        <h1 id="scrollspyHeading1"></h1>
+      <img src="FOTO/strisciacatering.jpg" class="img-fluid striscia" alt="Fotografia servizio catering">
+      <!--FINE home (parallasse)-->
+<!--INIZIO testo menu-->
+<section>
+  <h1 class="h1">Il nostro catering</h1>
+      <div class="row gy-3 gx-3">
+            <div class="col-md-7">
+    <div class="font centered">
+      <p>
+  <br>  Eleganza, cura dei dettagli, organizzazione impeccabile e attenzione alle esigenze di chi si rivolge a noi per il nostro servizio di catering sono tutti elementi che da sempre caratterizzano la nostra attività.<br>
+Mettiamo la massima cura in ogni particolare, da un’attenta mise en place a raffinate decorazioni di fiori freschi, per garantire un servizio efficiente, preciso e soddisfacente.<br>
+Creiamo un allestimento per ogni occasione speciale in tutta la provincia di Genova.<br>
+Il nostro staff potrà offrire un servizio d’eccellenza per rendere memorabile ogni occasione, personalizzando ogni proposta in base alle specifiche richieste del cliente.<br>
+Il menu è totalmente personalizzabile in base alle esigenze personali.<br>
+Ci occuperemo di creare piatti ideali per ogni palato, utilizzando sempre prodotti freschi e a chilometro zero.<br>
+<br>
+</p>
+      <p>
+<div class="titoli">Servizi</div>  </p>
+    <div class="font centered">
+      Eventi aziendali <br><br>
+      Eventi privati<br><br>
+      Matrimoni e altre celebrazioni<br><br><br>
+    </div>
+  <p>  Ti basteranno pochi minuti per compilare il form, spiegando brevemente la tua idea e verrai presto ricontattato per concordare il servizio su misura per te.
+  </p>
+</div>
+</div>
+  <div class="col-md-5 infobox">
+  <span class="infobox info-text">
+    <form>
+        <div class="form-row">
+          <div class="col-md-6 mb-3">
+            <label for="validationDefault01">Nome e Cognome</label>
+            <input type="text" class="form-control my-placeholder" id="validationDefault01" placeholder="Nome Cognome" value="" required>
+          </div>
+          <div class="col-md-6 mb-3">
+            <label for="validationDefaultUsername">Telefono</label>
+              <input type="text" class="form-control my-placeholder" id="validationDefaultUsername" placeholder="Telefono" aria-describedby="inputGroupPrepend2" required>
+            </div>
+          </div>
+        <div class="form-row">
+          <div class="col-md-6 mb-3">
+            <label for="validationDefault03">Email</label>
+            <div class="input-group">
+              </div>
+            <input type="text" class="form-control my-placeholder" id="validationDefault03" placeholder="Email" required>
+          </div>
+          <div class="col-md-12 mb-3">
+            <label for="validationDefault05">Messaggio</label>
+            <input type="text" class="form-control height my-placeholder" id="validationDefault05" placeholder="Messaggio" required>
+          </div>
+        </div>
+        <div class="form-group">
+          <div class="form-check">
+            <input class="form-check-input" type="checkbox" value="" id="invalidCheck2" required>
+            <label class="form-check-label" for="invalidCheck2">
+              Autorizzo al trattamento dei dati personali
+            </label>
+          </div>
+        </div>
+        <p></p>
+        <button class="btn btn-primary myButton destra" type="submit">Invia</button>
+      </form>
+   </span>
+    </div>
+    </div>
+  </section>
+<!--FINE testo menu>
+<!--INIZIO altre cards-->
+<div class="my-content h1">
+  <h1 id="scrollspyHeading5">Servizi</h1>
+</div>
+<div class="row gy-3 gx-3">
+  <div class="col-md-6">
+    <div class="card">
+      <img src="FOTO/asporto2.jpg" class="card-img-top" alt="Fotogafia servizio asporto">
+        <h5 class="card-name">Asporto</h5>
+    </div>
+  </div>
+</div><!--FINE altre cards-->
+    <!--INIZIO back to top-->
+    <div class="row">
+      <div class="col">
+        <div class="btt-container">
+          <div class="btt">
+            <a href="#scrollspyHeading1"><i class="bi bi-arrow-up"></i></a>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!--FINE back to top-->
+    <!--INIZIO footer-->
+      <div class="footer">
+        <div class="row">
+          <div class="col-md-4">
+          </div>
+          <div class="col-md-1">
+            <a href="https://www.tripadvisor.it" class="fa fa-tripadvisor icona social margin white" style="font-size:36px;"></a>
+          </div>
+          <div class="col-md-1">
+            <a href="https://www.instagram.com" class="bi bi-instagram icona social margin white"></a>
+          </div>
+          <div class="col-md-1">
+            <a href="https://wa.me/<010 147238>" class="bi bi-whatsapp icona social margin white"></a>
+            </div>
+            <div class="col-md-1">
+              <a href="https://www.facebook.com" class="bi bi-facebook icona social margin white"></a>
+            </div>
+        <div class="col-md-4">
+        </div>
+          <div class="my-content white">
+          Partita IVA 86334519757 <br>
+          Realizzato da: Ilaria Dal Mas, Martina Falagiani, Elena Polleri<br>
+        </div>
+      <div class="my-content social white"> ©2022 Copyright </div>
+      <a href="https://www.garanteprivacy.it/home/diritti/cosa-e-il-diritto-alla-protezione-dei-dati-personali" class="my-content social white">    Privacy </a>
+  </div>
+        </div>
+    <!--FINE footer-->
+      </div>
+      <!--FINE contenuto-->
+
+    </div>
+
+    <!--FINE container-->
+
+
+    <!-- Optional JavaScript; choose one of the two! -->
+
+    <!-- Option 1: Bootstrap Bundle with Popper -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
+
+    <!-- Option 2: Separate Popper and Bootstrap JS -->
+    <!--
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.10.2/dist/umd/popper.min.js" integrity="sha384-7+zCNj/IqJ95wo16oMtfsKbZ9ccEh31eOz1HGyDuCQ6wgnyJNSYdrPa03rtR1zdB" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.min.js" integrity="sha384-QJHtvGhmr9XOIpI6YVutG+2QOK9T+ZnN4kzFN1RtK3zEFEIsxhlmWl5/YESvpZ13" crossorigin="anonymous"></script>
+    -->
+  </body>
+</html>
