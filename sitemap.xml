@@ -1,27 +1,552 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
 <url>
-<loc>https://elenapolleri.github.io/Lachiavedel10/index.html</loc>
-<lastmod>2022-02-25</lastmod>
- <changefreq>monthly</changefreq>
- <priority>1.0</priority>
+  <loc>https://github.com/elenapolleri/Lachiavedel10</loc>
+  <lastmod>2022-03-09T14:29:57+00:00</lastmod>
+  <priority>1.00</priority>
 </url>
 <url>
-<loc>https://elenapolleri.github.io/Lachiavedel10/menu-ristorante.html</loc>
-<lastmod>2022-02-25</lastmod>
-<changefreq>monthly</changefreq>
- <priority>0.8</priority>
+  <loc>https://github.com/elenapolleri/Lachiavedel10/issues</loc>
+  <lastmod>2022-03-09T14:29:57+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>https://elenapolleri.github.io/Lachiavedel10/evento-sanvalentino.html</loc>
- <lastmod>2022-02-25</lastmod>
-<changefreq>monthly</changefreq>
- <priority>0.8</priority>
+  <loc>https://github.com/elenapolleri/Lachiavedel10/pulls</loc>
+  <lastmod>2022-03-09T14:29:57+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>https://elenapolleri.github.io/Lachiavedel10/servizio-catering.html</loc>
-<lastmod>2022-02-25</lastmod>
-<changefreq>monthly</changefreq>
- <priority>0.8</priority>
+  <loc>https://github.com/elenapolleri/Lachiavedel10/actions</loc>
+  <lastmod>2022-03-09T14:29:57+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
+<url>
+  <loc>https://github.com/elenapolleri/Lachiavedel10/projects?type=beta</loc>
+  <lastmod>2022-03-09T14:29:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/elenapolleri/Lachiavedel10/security</loc>
+  <lastmod>2022-03-09T14:29:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/elenapolleri/Lachiavedel10/blob/main/.htaccess</loc>
+  <lastmod>2022-03-09T14:29:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/elenapolleri/Lachiavedel10/blob/main/error404.html</loc>
+  <lastmod>2022-03-09T14:29:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/elenapolleri/Lachiavedel10/blob/main/evento-sanvalentino.html</loc>
+  <lastmod>2022-03-09T14:29:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/elenapolleri/Lachiavedel10/blob/main/googledec46a0ac4a60751.html</loc>
+  <lastmod>2022-03-09T14:29:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/elenapolleri/Lachiavedel10/blob/main/index.html</loc>
+  <lastmod>2022-03-09T14:29:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/elenapolleri/Lachiavedel10/blob/main/menu-ristorante.html</loc>
+  <lastmod>2022-03-09T14:29:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/elenapolleri/Lachiavedel10/blob/main/my-style.css</loc>
+  <lastmod>2022-03-09T14:29:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/elenapolleri/Lachiavedel10/blob/main/servizio-catering.html</loc>
+  <lastmod>2022-03-09T14:29:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/elenapolleri/Lachiavedel10/releases</loc>
+  <lastmod>2022-03-09T14:29:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/elenapolleri/Lachiavedel10/labels</loc>
+  <lastmod>2022-03-09T14:29:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/elenapolleri/Lachiavedel10/milestones</loc>
+  <lastmod>2022-03-09T14:29:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/elenapolleri/Lachiavedel10/compare</loc>
+  <lastmod>2022-03-09T14:29:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/elenapolleri/Lachiavedel10/actions/workflows/pages/pages-build-deployment</loc>
+  <lastmod>2022-03-09T14:29:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/elenapolleri/Lachiavedel10/actions/runs/1933421775</loc>
+  <lastmod>2022-03-09T14:29:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/elenapolleri/Lachiavedel10/actions/runs/1933413819</loc>
+  <lastmod>2022-03-09T14:29:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/elenapolleri/Lachiavedel10/actions/runs/1933383438</loc>
+  <lastmod>2022-03-09T14:29:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/elenapolleri/Lachiavedel10/actions/runs/1921821758</loc>
+  <lastmod>2022-03-09T14:29:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/elenapolleri/Lachiavedel10/actions/runs/1921819081</loc>
+  <lastmod>2022-03-09T14:29:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/elenapolleri/Lachiavedel10/actions/runs/1921631930</loc>
+  <lastmod>2022-03-09T14:29:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/elenapolleri/Lachiavedel10/actions/runs/1898233822</loc>
+  <lastmod>2022-03-09T14:29:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/elenapolleri/Lachiavedel10/actions/runs/1898215100</loc>
+  <lastmod>2022-03-09T14:29:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/elenapolleri/Lachiavedel10/actions/runs/1898162484</loc>
+  <lastmod>2022-03-09T14:29:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/elenapolleri/Lachiavedel10/actions/runs/1898154082</loc>
+  <lastmod>2022-03-09T14:29:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/elenapolleri/Lachiavedel10/actions/runs/1886671137</loc>
+  <lastmod>2022-03-09T14:29:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/elenapolleri/Lachiavedel10/projects</loc>
+  <lastmod>2022-03-09T14:29:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/elenapolleri/Lachiavedel10/security/policy</loc>
+  <lastmod>2022-03-09T14:29:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/elenapolleri/Lachiavedel10/security/advisories</loc>
+  <lastmod>2022-03-09T14:29:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/elenapolleri/Lachiavedel10/blob/68aa2c14af9a9ed2847e6041eb345387266b5b05/.htaccess</loc>
+  <lastmod>2022-03-09T14:29:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/elenapolleri/Lachiavedel10/find/main</loc>
+  <lastmod>2022-03-09T14:29:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/elenapolleri/Lachiavedel10/blob/68aa2c14af9a9ed2847e6041eb345387266b5b05/error404.html</loc>
+  <lastmod>2022-03-09T14:29:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/elenapolleri/Lachiavedel10/blob/68aa2c14af9a9ed2847e6041eb345387266b5b05/evento-sanvalentino.html</loc>
+  <lastmod>2022-03-09T14:29:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/elenapolleri/Lachiavedel10/blob/68aa2c14af9a9ed2847e6041eb345387266b5b05/googledec46a0ac4a60751.html</loc>
+  <lastmod>2022-03-09T14:29:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/elenapolleri/Lachiavedel10/blob/68aa2c14af9a9ed2847e6041eb345387266b5b05/index.html</loc>
+  <lastmod>2022-03-09T14:29:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/elenapolleri/Lachiavedel10/blob/68aa2c14af9a9ed2847e6041eb345387266b5b05/menu-ristorante.html</loc>
+  <lastmod>2022-03-09T14:29:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/elenapolleri/Lachiavedel10/blob/68aa2c14af9a9ed2847e6041eb345387266b5b05/my-style.css</loc>
+  <lastmod>2022-03-09T14:29:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/elenapolleri/Lachiavedel10/blob/68aa2c14af9a9ed2847e6041eb345387266b5b05/servizio-catering.html</loc>
+  <lastmod>2022-03-09T14:29:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/elenapolleri/Lachiavedel10/labels?sort=name-asc</loc>
+  <lastmod>2022-03-09T14:29:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/elenapolleri/Lachiavedel10/labels?sort=name-desc</loc>
+  <lastmod>2022-03-09T14:29:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/elenapolleri/Lachiavedel10/labels?sort=count-desc</loc>
+  <lastmod>2022-03-09T14:29:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/elenapolleri/Lachiavedel10/labels?sort=count-asc</loc>
+  <lastmod>2022-03-09T14:29:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/elenapolleri/Lachiavedel10/labels/bug</loc>
+  <lastmod>2022-03-09T14:29:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/elenapolleri/Lachiavedel10/labels/documentation</loc>
+  <lastmod>2022-03-09T14:29:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/elenapolleri/Lachiavedel10/labels/duplicate</loc>
+  <lastmod>2022-03-09T14:29:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/elenapolleri/Lachiavedel10/labels/enhancement</loc>
+  <lastmod>2022-03-09T14:29:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/elenapolleri/Lachiavedel10/labels/good%20first%20issue</loc>
+  <lastmod>2022-03-09T14:29:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/elenapolleri/Lachiavedel10/labels/help%20wanted</loc>
+  <lastmod>2022-03-09T14:29:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/elenapolleri/Lachiavedel10/labels/invalid</loc>
+  <lastmod>2022-03-09T14:29:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/elenapolleri/Lachiavedel10/labels/question</loc>
+  <lastmod>2022-03-09T14:29:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/elenapolleri/Lachiavedel10/labels/wontfix</loc>
+  <lastmod>2022-03-09T14:29:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/elenapolleri/Lachiavedel10/milestones?state=open</loc>
+  <lastmod>2022-03-09T14:29:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/elenapolleri/Lachiavedel10/milestones?state=closed</loc>
+  <lastmod>2022-03-09T14:29:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/elenapolleri/Lachiavedel10/milestones?direction=desc&amp;sort=due_date&amp;state=open</loc>
+  <lastmod>2022-03-09T14:29:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/elenapolleri/Lachiavedel10/milestones?direction=asc&amp;sort=due_date&amp;state=open</loc>
+  <lastmod>2022-03-09T14:29:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/elenapolleri/Lachiavedel10/milestones?direction=asc&amp;sort=completeness&amp;state=open</loc>
+  <lastmod>2022-03-09T14:29:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/elenapolleri/Lachiavedel10/milestones?direction=desc&amp;sort=completeness&amp;state=open</loc>
+  <lastmod>2022-03-09T14:29:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/elenapolleri/Lachiavedel10/milestones?direction=asc&amp;sort=title&amp;state=open</loc>
+  <lastmod>2022-03-09T14:29:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/elenapolleri/Lachiavedel10/milestones?direction=desc&amp;sort=title&amp;state=open</loc>
+  <lastmod>2022-03-09T14:29:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/elenapolleri/Lachiavedel10/milestones?direction=desc&amp;sort=count&amp;state=open</loc>
+  <lastmod>2022-03-09T14:29:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/elenapolleri/Lachiavedel10/milestones?direction=asc&amp;sort=count&amp;state=open</loc>
+  <lastmod>2022-03-09T14:29:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/elenapolleri/Lachiavedel10/runs/5421411452?check_suite_focus=true</loc>
+  <lastmod>2022-03-09T14:29:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/elenapolleri/Lachiavedel10/runs/5421419065?check_suite_focus=true</loc>
+  <lastmod>2022-03-09T14:29:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/elenapolleri/Lachiavedel10/commit/68aa2c14af9a9ed2847e6041eb345387266b5b05</loc>
+  <lastmod>2022-03-09T14:29:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/elenapolleri/Lachiavedel10/runs/5421389201?check_suite_focus=true</loc>
+  <lastmod>2022-03-09T14:29:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/elenapolleri/Lachiavedel10/runs/5421397729?check_suite_focus=true</loc>
+  <lastmod>2022-03-09T14:29:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/elenapolleri/Lachiavedel10/commit/4656f1f3bf30fc46647f9625f11b6821b869bc55</loc>
+  <lastmod>2022-03-09T14:29:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/elenapolleri/Lachiavedel10/runs/5421306834?check_suite_focus=true</loc>
+  <lastmod>2022-03-09T14:29:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/elenapolleri/Lachiavedel10/runs/5421314385?check_suite_focus=true</loc>
+  <lastmod>2022-03-09T14:29:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/elenapolleri/Lachiavedel10/commit/9e3f3bdb34f939db063ff744ddd7b340dbb4c4b6</loc>
+  <lastmod>2022-03-09T14:29:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/elenapolleri/Lachiavedel10/runs/5390411878?check_suite_focus=true</loc>
+  <lastmod>2022-03-09T14:29:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/elenapolleri/Lachiavedel10/runs/5390421818?check_suite_focus=true</loc>
+  <lastmod>2022-03-09T14:29:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/elenapolleri/Lachiavedel10/commit/c854991da8c7236fbda262de13407d530561a6b9</loc>
+  <lastmod>2022-03-09T14:29:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/elenapolleri/Lachiavedel10/runs/5390403083?check_suite_focus=true</loc>
+  <lastmod>2022-03-09T14:29:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/elenapolleri/Lachiavedel10/runs/5390411442?check_suite_focus=true</loc>
+  <lastmod>2022-03-09T14:29:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/elenapolleri/Lachiavedel10/commit/d310fd7ec5d7b388a5a589b1dc04efa76ae4bff1</loc>
+  <lastmod>2022-03-09T14:29:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/elenapolleri/Lachiavedel10/runs/5389893094?check_suite_focus=true</loc>
+  <lastmod>2022-03-09T14:29:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/elenapolleri/Lachiavedel10/runs/5389903110?check_suite_focus=true</loc>
+  <lastmod>2022-03-09T14:29:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/elenapolleri/Lachiavedel10/commit/06067b7a2e0e94f78857a787e9c317bdc7c499ce</loc>
+  <lastmod>2022-03-09T14:29:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/elenapolleri/Lachiavedel10/runs/5332465248?check_suite_focus=true</loc>
+  <lastmod>2022-03-09T14:29:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/elenapolleri/Lachiavedel10/runs/5332470803?check_suite_focus=true</loc>
+  <lastmod>2022-03-09T14:29:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/elenapolleri/Lachiavedel10/commit/59b49c5bf49b952108bc6318b80b26cde01922f6</loc>
+  <lastmod>2022-03-09T14:29:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/elenapolleri/Lachiavedel10/runs/5332413970?check_suite_focus=true</loc>
+  <lastmod>2022-03-09T14:29:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/elenapolleri/Lachiavedel10/runs/5332424288?check_suite_focus=true</loc>
+  <lastmod>2022-03-09T14:29:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/elenapolleri/Lachiavedel10/commit/d1f3b762e91bf29c346e208ec735adb73214e2dd</loc>
+  <lastmod>2022-03-09T14:29:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/elenapolleri/Lachiavedel10/runs/5332271681?check_suite_focus=true</loc>
+  <lastmod>2022-03-09T14:29:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/elenapolleri/Lachiavedel10/runs/5332281098?check_suite_focus=true</loc>
+  <lastmod>2022-03-09T14:29:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/elenapolleri/Lachiavedel10/commit/542cecbb7c242472f68ab8233b7ef5fb225930a5</loc>
+  <lastmod>2022-03-09T14:29:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/elenapolleri/Lachiavedel10/runs/5332249647?check_suite_focus=true</loc>
+  <lastmod>2022-03-09T14:29:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/elenapolleri/Lachiavedel10/runs/5332258795?check_suite_focus=true</loc>
+  <lastmod>2022-03-09T14:29:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/elenapolleri/Lachiavedel10/commit/1e5108402778746b9ff495972ac5b21a578cf93b</loc>
+  <lastmod>2022-03-09T14:29:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/elenapolleri/Lachiavedel10/runs/5301784506?check_suite_focus=true</loc>
+  <lastmod>2022-03-09T14:29:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/elenapolleri/Lachiavedel10/runs/5301803488?check_suite_focus=true</loc>
+  <lastmod>2022-03-09T14:29:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/elenapolleri/Lachiavedel10/commit/9e58ef071457435e2f6f8704f7e3aaf987470bf2</loc>
+  <lastmod>2022-03-09T14:29:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/elenapolleri/Lachiavedel10/security/advisories?state=published</loc>
+  <lastmod>2022-03-09T14:29:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/elenapolleri/Lachiavedel10/find/68aa2c14af9a9ed2847e6041eb345387266b5b05</loc>
+  <lastmod>2022-03-09T14:29:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/elenapolleri/Lachiavedel10/milestones?direction=desc&amp;sort=due_date&amp;state=closed</loc>
+  <lastmod>2022-03-09T14:29:57+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/elenapolleri/Lachiavedel10/milestones?direction=asc&amp;sort=due_date&amp;state=closed</loc>
+  <lastmod>2022-03-09T14:29:57+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/elenapolleri/Lachiavedel10/milestones?direction=asc&amp;sort=completeness&amp;state=closed</loc>
+  <lastmod>2022-03-09T14:29:57+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/elenapolleri/Lachiavedel10/milestones?direction=desc&amp;sort=completeness&amp;state=closed</loc>
+  <lastmod>2022-03-09T14:29:57+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/elenapolleri/Lachiavedel10/milestones?direction=asc&amp;sort=title&amp;state=closed</loc>
+  <lastmod>2022-03-09T14:29:57+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/elenapolleri/Lachiavedel10/milestones?direction=desc&amp;sort=title&amp;state=closed</loc>
+  <lastmod>2022-03-09T14:29:57+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/elenapolleri/Lachiavedel10/milestones?direction=desc&amp;sort=count&amp;state=closed</loc>
+  <lastmod>2022-03-09T14:29:57+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/elenapolleri/Lachiavedel10/milestones?direction=asc&amp;sort=count&amp;state=closed</loc>
+  <lastmod>2022-03-09T14:29:57+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+
+
 </urlset>
